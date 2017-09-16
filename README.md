@@ -12,7 +12,7 @@ The Plain is a minimalist Jekyll theme, designed to focus on writing that really
 
 > Minimalism is a masterpiece of tranquility. -- Heiswayi Nrird
 
-### License
+###
 
 [MIT](LICENSE.md)
 
