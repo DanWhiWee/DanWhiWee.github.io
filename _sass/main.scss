@@ -106,7 +106,7 @@ blockquote {
     &:before {
       content: "";
       border-width: 5px 5px 5px 0;
-      border-style: solid;
+      border-style: dotted;
       border-color: transparent #666;
       border-color: transparent rgba(0,0,0,.5);
       position: absolute;
