@@ -55,12 +55,12 @@ blockquote {
   -webkit-animation-fill-mode: both;
   -webkit-animation-name: bounce;
   a {
-    background: #ddd url("gravatar_wrapper.png");
+    background: #000 url("gravatar_wrapper.png");
     color: #000;
     text-decoration: none;
     font-weight: 700;
-    height: 95px;
-    width: 95px;
+    height: 100px;
+    width: 100px;
     font-size: 1.5em;
     border-radius: 100%;
     display: inline-block;
@@ -77,7 +77,7 @@ blockquote {
       display: inline-block !important;
     }
     .gravatar {
-      margin-top: 2.5px;
+      margin-top: 5px;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       border-radius: 50%;
