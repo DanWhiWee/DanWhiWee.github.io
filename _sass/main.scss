@@ -62,7 +62,7 @@ blockquote {
     height: 90px;
     width: 90px;
     font-size: 1.5em;
-    // border-radius: 100%;
+    border-radius: 100%;
     display: inline-block;
     text-align: center;
     line-height: 100px;
@@ -78,9 +78,9 @@ blockquote {
     }
     .gravatar {
       margin-top: 0px;
-      // -webkit-border-radius: 50%;
-      // -moz-border-radius: 50%;
-      // border-radius: 50%;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      border-radius: 50%;
     }
     @media (max-width : 480px) {&:hover + .logo-prompt,
       &:focus + .logo-prompt {
