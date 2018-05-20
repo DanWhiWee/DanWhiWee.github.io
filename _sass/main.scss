@@ -55,14 +55,14 @@ blockquote {
   -webkit-animation-fill-mode: both;
   -webkit-animation-name: bounce;
   a {
-    background: #000 url("gravatar_wrapper.png");
+    background: #ddd url("gravatar_wrapper.png");
     color: #000;
     text-decoration: none;
     font-weight: 700;
     height: 100px;
     width: 100px;
     font-size: 1.5em;
-    border-radius: 100%;
+    border-radius: 10%;
     display: inline-block;
     text-align: center;
     line-height: 100px;
