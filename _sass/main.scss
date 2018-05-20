@@ -1,5 +1,5 @@
 body {
-  font-size: 14px;
+  font-size: 12px;
   line-height: 20px;
   font-weight: normal;
   font-style: normal;
@@ -92,7 +92,7 @@ blockquote {
     position: absolute;
     display: none;
     vertical-align: middle;
-    padding: 5px;
+    padding: 0px;
     border-radius: 3px;
     background: #666;
     background: rgba(0,0,0,.5);
@@ -142,7 +142,7 @@ time {
 }
 code,
 pre {
-  font-family: Consolas, Courier, monospace;
+  font-family: Consolas, Courier, monospace,"Microsoft YaHei";
 }
 code {
   color: #f14e32;
