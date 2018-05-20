@@ -66,8 +66,8 @@ blockquote {
     display: inline-block;
     text-align: center;
     line-height: 100px;
-    // border: 5px solid #fff;
-    box-sizing: border-box;
+    border: 1px solid #fff;
+    // box-sizing: border-box;
     &:hover,
     &:focus {
       background: #f14e32;
